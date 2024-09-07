@@ -16,3 +16,12 @@ kertas kardus, botol minuman, kaleng;
 dimanfaatkan kembali setelah melalui proses pengolahan, seperti sisa 
 kain, plastik, kertas, kaca; dan 
 5. Sampah lainnya, yaitu residu.
+
+![image](https://github.com/user-attachments/assets/cfbeb948-6cf7-4376-9d54-7e7b7d93b9f7)
+
+Tong sampah memiliki kode warna yang didasarkan pada jenis sampah. Setiap jenis sampah memiliki kode warna yang berbeda.
+1. **Merah** -> Sampah B3
+2. **Hijau** -> Sampah Organik
+3. **Kuning** -> Sampah Guna Ulang
+4. **Biru** -> Sampah Daur Ulang
+5. **Abu-abu** -> Sampah Residu
